@@ -1,0 +1,612 @@
+[
+  {
+    "type": "warn",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "MetaMask: The event 'close' is deprecated and may be removed in the future. Please use 'disconnect' instead.\nFor more information, see: https://eips.ethereum.org/EIPS/eip-1193"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.warn (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772226)",
+      "at t.exports._warnOfDeprecation (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:11483)",
+      "at Proxy.on (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:10078)",
+      "at t.n.activate (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4637856)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:287073",
+      "at A (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:283825)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:287035",
+      "at https://dapp.test.tbtc.network/static/js/main.372eb967.chunk.js:1:9500"
+    ]
+  },
+  {
+    "type": "warn",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "MetaMask: The event 'networkChanged' is deprecated and may be removed in the future. Please use 'chainChanged' instead.\nFor more information, see: https://eips.ethereum.org/EIPS/eip-1193"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.warn (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772226)",
+      "at t.exports._warnOfDeprecation (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:11483)",
+      "at Proxy.on (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:10078)",
+      "at t.n.activate (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4637901)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:287073",
+      "at A (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:283825)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:287035",
+      "at https://dapp.test.tbtc.network/static/js/main.372eb967.chunk.js:1:9500"
+    ]
+  },
+  {
+    "type": "warn",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "MetaMask: The event 'data' is deprecated and may be removed in the future."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.warn (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772226)",
+      "at t.exports._warnOfDeprecation (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:11483)",
+      "at Proxy.on (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js:1:10078)",
+      "at e.u.setProvider (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6599576)",
+      "at Object.packageInit (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:426807)",
+      "at new d (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:959919)",
+      "at Tc (https://dapp.test.tbtc.network/static/js/main.372eb967.chunk.js:1:33686)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:289157"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "netId: 3\nchainId: 3"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/main.372eb967.chunk.js:1:33356",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "Looking up Deposit contract at address 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160250",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:03 GMT",
+    "arguments": {
+      "0": "Looking up Created event for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160405",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:04 GMT",
+    "arguments": {
+      "0": "Found keep address 0xBFEF1344860a505B05EF048EcC5F2dD712786E6a."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160730",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:05 GMT",
+    "arguments": {
+      "0": "Monitoring deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee for transition to ACTIVE."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3174814)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:05 GMT",
+    "arguments": {
+      "0": "Found existing Bitcoin address for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3173635)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:09 GMT",
+    "arguments": {
+      "0": "Looking up latest redemption details for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:1365145",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:09 GMT",
+    "arguments": {
+      "0": "Finding or waiting for transaction signature for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:1365306",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:09 GMT",
+    "arguments": {
+      "0": "Deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee transitioned to ACTIVE."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3175014)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:09 GMT",
+    "arguments": {
+      "0": "Looking up Deposit contract at address 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160250",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:09 GMT",
+    "arguments": {
+      "0": "Looking up Created event for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160405",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:10 GMT",
+    "arguments": {
+      "0": "Found keep address 0xBFEF1344860a505B05EF048EcC5F2dD712786E6a."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3160730",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:11 GMT",
+    "arguments": {
+      "0": "Monitoring deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee for transition to ACTIVE."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3174814)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:11 GMT",
+    "arguments": {
+      "0": "Found existing Bitcoin address for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3173635)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:13 GMT",
+    "arguments": {
+      "0": "Looking for existing signed redemption transaction on Bitcoin chain for deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:1366537",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:13 GMT",
+    "arguments": {
+      "0": "Connecting to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181390)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:13 GMT",
+    "arguments": {
+      "0": "You are connected to an ElectrumX 1.15.0 server."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213501)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:13 GMT",
+    "arguments": {
+      "0": "Negotiated version: [ElectrumX 1.15.0,1.4.2]"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213599)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:13 GMT",
+    "arguments": {
+      "0": "Closing connection to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181799)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:14 GMT",
+    "arguments": {
+      "0": "Waiting for 1 confirmations for Bitcoin transaction 0dc9d8a5c8ebcaf9d486d1c29afd1921e644c006b2c049605a2662dbf60c849e..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:1367551",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:14 GMT",
+    "arguments": {
+      "0": "Connecting to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181390)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:14 GMT",
+    "arguments": {
+      "0": "You are connected to an ElectrumX 1.15.0 server."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213501)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:14 GMT",
+    "arguments": {
+      "0": "Deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee transitioned to ACTIVE."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3175014)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:14 GMT",
+    "arguments": {
+      "0": "Negotiated version: [ElectrumX 1.15.0,1.4.2]"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213599)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:15 GMT",
+    "arguments": {
+      "0": "Closing connection to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181799)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "debug",
+    "timestamp": "Mon, 27 Jul 2020 17:20:15 GMT",
+    "arguments": {
+      "0": "Transaction is sufficiently confirmed; submitting redemption proof to deposit 0xF96446Ab0854A35Ff3d4650e56F6881c275bFdee..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.debug (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772367)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:1368089",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:15 GMT",
+    "arguments": {
+      "0": "Connecting to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181390)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:15 GMT",
+    "arguments": {
+      "0": "You are connected to an ElectrumX 1.15.0 server."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213501)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:16 GMT",
+    "arguments": {
+      "0": "Negotiated version: [ElectrumX 1.15.0,1.4.2]"
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at n.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:6213599)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at n (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38662)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:38872)"
+    ]
+  },
+  {
+    "type": "log",
+    "timestamp": "Mon, 27 Jul 2020 17:20:16 GMT",
+    "arguments": {
+      "0": "Closing connection to electrum server..."
+    },
+    "stack": [
+      "at console._collect (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772600)",
+      "at console._intercept (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772439)",
+      "at console.log (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4772089)",
+      "at t.<anonymous> (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:3181799)",
+      "at c (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773844)",
+      "at Generator._invoke (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4773632)",
+      "at Generator.e.<computed> [as next] (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:4774266)",
+      "at r (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36334)",
+      "at o (https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36536)",
+      "at https://dapp.test.tbtc.network/static/js/2.d6fc6274.chunk.js:1:36595"
+    ]
+  }
+]
